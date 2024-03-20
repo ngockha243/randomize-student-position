@@ -1,2 +1,2 @@
-# randomize-student-position-deploy-test
-https://nkha243.github.io/randomize-student-position-deploy-test/
+# randomize-student-position
+https://nkha243.github.io/randomize-student-position/
